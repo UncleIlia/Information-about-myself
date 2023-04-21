@@ -4,4 +4,4 @@
 2. I am learning programming.
 3. My favorite programming language is Java.
 
-! [] (https://disk.yandex.ru/i/vtwuR5WXbEE1Sw)
+![](https://disk.yandex.ru/i/vtwuR5WXbEE1Sw)
