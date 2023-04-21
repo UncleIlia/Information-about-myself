@@ -4,4 +4,4 @@
 2. I am learning programming.
 3. My favorite programming language is Java.
 
-![](C:\Users\IliaN\OneDrive\Рабочий стол\photo.jpg)
+! [My photo] (C:\Users\IliaN\OneDrive\Рабочий стол\photo.jpg)
